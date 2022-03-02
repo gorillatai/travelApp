@@ -8,7 +8,4 @@
     "webpack-dev-server": "^3"
   }
 }
-{
-  "license": "UNLICENSED",
-  // 省略 //
-}
+
